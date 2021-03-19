@@ -7,7 +7,7 @@ from os import environ
 from datetime import datetime
 import pandas as pd
 
-environ['ALPHAVANTAGE_API_KEY'] = 'UWBPNTXKFVI68TVX'
+environ['ALPHAVANTAGE_API_KEY'] = '' # Type API key here
 
 app = dash.Dash()
 
